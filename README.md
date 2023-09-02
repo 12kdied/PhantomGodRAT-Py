@@ -22,9 +22,9 @@ Please note that the PhantomGod RAT should be used responsibly and ethically. Un
 
 ## Founder
 
-The PhantomGod project was initiated by [Your Name](https://github.com/yourgithubusername). For more details and contributions, visit the [GitHub repository](https://github.com/yourgithubusername/phantomgod-rat).
+The PhantomGod project was initiated by [12K](https://github.com/12kdied/). For more details and contributions, visit the [GitHub repository](https://github.com/12kdied/PhantomGodRAT_Telegram).
 
-## Contact and Support
+## Contact, Support and Channel
 
 If you have questions or need assistance, please reach out to the PhantomGod support team on Telegram: [@PhantomGodSupport](https://t.me/PhantomGodSupport).
 
