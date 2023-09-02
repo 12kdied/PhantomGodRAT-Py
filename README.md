@@ -1,4 +1,4 @@
-# PhantomGod RAT Telegram Bot
+# 🧪 PhantomGod RAT 🧪
 
 ![PhantomGod Logo](https://i.postimg.cc/NF3VvrXc/image.png)
 
