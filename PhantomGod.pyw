@@ -39,8 +39,8 @@ from pip._internal import main as pip_main
 ##################################################################
 #               LOOK HERE BBY                                    #
 ##################################################################
-token = '6460901264:AAEznjCq2ioVGQe0Qw9emIFZQbTHXCOA3UU'         # 
-id_chat = '6645752359'                                           #
+token = 'PUT HERE YOR TOKEN BOT TELEGRAM'                        # 
+id_chat = 'PUT HERE YOUR ID CHAT'                                #
 ##################################################################
 def check_internet_connection():
     try:
