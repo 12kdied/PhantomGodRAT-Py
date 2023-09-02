@@ -1,6 +1,6 @@
 # PhantomGod RAT Telegram Bot
 
-![PhantomGod Logo](inserta-url-de-la-imagen.png)
+![PhantomGod Logo](https://i.postimg.cc/NF3VvrXc/image.png)
 
 The PhantomGod RAT Telegram Bot is an open-source Remote Access Trojan (RAT) designed to provide remote control and monitoring capabilities for computer systems via the Telegram messaging platform.
 
