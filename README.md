@@ -1,4 +1,4 @@
-# 🧪 PhantomGod RAT 🧪
+# 🧪 PhantomGod RAT (BETA v0.1.0)🧪
 
 ![PhantomGod Logo](https://i.postimg.cc/NF3VvrXc/image.png)
 
