@@ -35,4 +35,4 @@ Follow these steps to get started with the PhantomGod RAT Telegram Bot:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/12kdied/PhantomGodRAT_Telegram
+   git clone https://github.com/12kdied/PhantomGod
