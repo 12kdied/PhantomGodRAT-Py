@@ -1,0 +1,15 @@
+telbot
+discord
+requests
+psutil
+pyTelegramBotAPI
+opencv-python
+pyaudio
+keyboard
+pillow
+pywin32
+pyautogui
+numpy
+zipfile36
+pycryptodome
+python-telegram-bot
