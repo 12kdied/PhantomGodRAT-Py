@@ -1,31 +1,3 @@
-
-import subprocess, os
-paquetes = [
-    "telbot",
-    "discord",
-    "requests",
-    "psutil",
-    "pyTelegramBotAPI",
-    "opencv-python",
-    "pyaudio",
-    "keyboard",
-    "pillow",
-    "pywin32",
-    "pyautogui",
-    "numpy",
-    "zipfile36",
-    "pycryptodome",
-    "python-telegram-bot"
-]
-def instalar_paquete(paquete):
-    comando = f"pip install {paquete}"
-    subprocess.Popen(comando, shell=True)
-    print(f"Instalando {paquete} en segundo plano...")
-for paquete in paquetes:
-    instalar_paquete(paquete)
-print("Continuando con otras tareas después de la instalación...")
-subprocess.Popen("py -m pip install pywin32", shell=True)
-os.system("cls")
 import requests, winreg, importlib, platform, random, shutil, psutil, pyautogui, telebot, os, cv2, requests as r, subprocess, socket, psutil, time, threading, pyaudio, wave, re, ctypes, sys, keyboard
 import numpy as np
 from PIL import ImageGrab
