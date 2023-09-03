@@ -22,7 +22,7 @@ Please note that the PhantomGod RAT should be used responsibly and ethically. Un
 
 ## Founder
 
-The PhantomGod project was initiated by [12K](https://github.com/12kdied/). For more details and contributions, visit the [GitHub repository](https://github.com/12kdied/PhantomGodRAT_Telegram).
+The PhantomGod project was initiated by [12K](https://github.com/12kdied/). For more details and contributions, visit the [GitHub repository](https://github.com/12kdied/PhantomGod).
 
 ## Contact, Support and Channel
 
